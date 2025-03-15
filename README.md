@@ -1,4 +1,6 @@
 # astrobot
+![image](https://github.com/user-attachments/assets/57bcc67e-3028-4b29-be59-6defe350e0c2)
+
 A space mobile robot
 ﻿**Parts for Autonomous Mobile Robot.**
 
