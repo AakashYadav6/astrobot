@@ -63,7 +63,8 @@ Required:
 - **Battery Capacity Checker [https://robu.in/product/21-rc-cell-meter-7-digital-battery-capacity-checker-nicd-nimh-lipo-life-li-ion/](https://robu.in/product/2-1-rc-cell-meter-7-digital-battery-capacity-checker-nicd-nimh-lipo-life-li-ion/)**
 - **Battery Charger [https://robu.in/product/skyrc-imax-b650w-5a-chargerdischarger-16-cells-dc-5a-12v-60w-adapter-](https://robu.in/product/skyrc-imax-b6-50w-5a-chargerdischarger-1-6-cells-dc-5a-12v-60w-adapter-acgenuine/)**
 
-[acgenuine/ ](https://robu.in/product/skyrc-imax-b6-50w-5a-chargerdischarger-1-6-cells-dc-5a-12v-60w-adapter-acgenuine/)![](Aspose.Words.a80e9b39-6fcd-487f-9311-6e54cd079aa5.001.png) **Adjustable DC power Supply bench** link:[https://robu.in/product/wanptek-wps3005h-ac-115-to-230v-input-0-to-60v-5a-dc-output-digital-](https://robu.in/product/wanptek-wps3005h-ac-115-to-230v-input-0-to-60v-5a-dc-output-digital-desk-power-supply-with-a-usb-fast-charging-port/)
+[acgenuine/ ](https://robu.in/product/skyrc-imax-b6-50w-5a-chargerdischarger-1-6-cells-dc-5a-12v-60w-adapter-acgenuine/)![](Aspose.Words.a80e9b39-6fcd-487f-9311-6e54cd079aa5.001.png) 
+- **Adjustable DC power Supply bench** link:[https://robu.in/product/wanptek-wps3005h-ac-115-to-230v-input-0-to-60v-5a-dc-output-digital-](https://robu.in/product/wanptek-wps3005h-ac-115-to-230v-input-0-to-60v-5a-dc-output-digital-desk-power-supply-with-a-usb-fast-charging-port/)
 
 [desk-power-supply-with-a-usb-fast-charging-port/](https://robu.in/product/wanptek-wps3005h-ac-115-to-230v-input-0-to-60v-5a-dc-output-digital-desk-power-supply-with-a-usb-fast-charging-port/)
 
