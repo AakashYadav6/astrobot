@@ -4,7 +4,20 @@
 A differential drive mobile robot with two driven wheels and one castor wheel.
 - root link called base_link
 - Orientation X - FORWARD Y- LEFT Z- UP
-  
+  ![image](https://github.com/user-attachments/assets/e9e828e4-6005-4016-9cf6-6258fe707a3e)
+
+To launch the robot state publisher
+```bash
+   ros2 launch astrobot rsp.launch.py 
+```
+To launch the joint state publisher gui 
+```bash
+ ros2 run joint_state_publisher_gui joint_state_publisher_gui 
+```
+Then visualize in rviz
+```bash
+rviz2 
+```
 ﻿**Parts for Autonomous Mobile Robot.**
 
 Essentials:
